@@ -1,4 +1,4 @@
-# **Demonstrating OO Design Benefits in TensorFlow:
+# Demonstrating OO Design Benefits in TensorFlow:
 
 Applying Object-Oriented Principles to Deep Neural Network Development**
 
